@@ -1,0 +1,18 @@
+{
+  "author": "Tommy Parnell",
+  "dependencies": [
+   {
+     "name": "chocolatey-chocolatey",
+     "version_range": ">= 1.2.1"
+   }
+ ],
+  "license": "MIT",
+  "name": "gradifi-win_vagrant_orchestrate",
+  "operatingsystem_support": ["Windows"],
+  "project_page": "https://github.com/gradifi/win_vagrant_orchestrate",
+  "requirements": [],
+  "source": "",
+  "summary": "bootstrap a windows box for vagrant orchestrate",
+  "tags": [],
+  "version": "0.1.0"
+}
