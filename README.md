@@ -5,6 +5,10 @@ This is a module that will bootstrap a windows box with vagrant orchestrate whic
 ## requirements
 * `chocolatey-chocolatey`
 
+## Installing
+
+`mod 'gradifi-win_vagrant_orchestrate', :git => "https://github.com/gradifi/win_vagrant_orchestrate.git"`
+
 ## usage
 
 ```
